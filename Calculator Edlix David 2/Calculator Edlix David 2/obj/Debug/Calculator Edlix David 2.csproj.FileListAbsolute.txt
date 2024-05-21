@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\bin\Debug\Calculator Edlix David 2.exe.config
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\bin\Debug\Calculator Edlix David 2.exe
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\bin\Debug\Calculator Edlix David 2.pdb
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\obj\Debug\Calculator Edlix David 2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\obj\Debug\Calculator_Edlix_David_2.Form1.resources
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\obj\Debug\Calculator_Edlix_David_2.Properties.Resources.resources
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\obj\Debug\Calculator Edlix David 2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\obj\Debug\Calculator Edlix David 2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\obj\Debug\Calculator Edlix David 2.exe
+C:\Users\Admin\source\repos\Calculator Edlix David 2\Calculator Edlix David 2\obj\Debug\Calculator Edlix David 2.pdb
